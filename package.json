@@ -1,7 +1,7 @@
 {
-  "name": "simple-website",
+  "name": "Udugaha Walpola Mediaa Unit",
   "version": "1.0.0",
-  "description": "A simple static website with Node.js and Express",
+  "description": "Udugaha Walpola Mediaa Unit website Create By B.M Pabasara Malinda.js and Express",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
