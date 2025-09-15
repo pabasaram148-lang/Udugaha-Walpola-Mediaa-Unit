@@ -1,10 +1,12 @@
 {
-  "name": "Udugaha Walpola Mediaa Unit",
+  "name": "my-web",
   "version": "1.0.0",
-  "description": "Udugaha Walpola Mediaa Unit website Create By B.M Pabasara Malinda.js and Express",
+  "description": "Very simple website with Node.js and Express",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "node index.js"
   },
   "dependencies": {
     "express": "^4.19.2"
